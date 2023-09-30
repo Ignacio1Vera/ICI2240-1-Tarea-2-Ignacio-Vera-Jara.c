@@ -13,8 +13,8 @@ El código es un programa de gestión de puntos de interés turístico y turista
 ## Problemas conocidos
 
 -Hay un problema con exportar el archivo de ejemplo
--no elimina puntos de interés apropiadamente(se pueden ver en la opción 7)
--no muestra  los datos de los turistas(opcion 6 dice No hay turistas registrados.)
+,no elimina puntos de interés apropiadamente(se pueden ver en la opción 7)
+,no muestra  los datos de los turistas(opcion 6 dice No hay turistas registrados.)
 
 
 ## Contribucion
